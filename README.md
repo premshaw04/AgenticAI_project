@@ -16,10 +16,10 @@ A modern Retrieval-Augmented Generation (RAG) assistant powered by **FastAPI**, 
 
 ## 🛠️ Tech Stack
 
-- **Backend**: Python 3.10+, FastAPI, Uvicorn
-- **AI / Embeddings**: LangChain, Google Generative AI (`gemini-2.5-flash`, `gemini-embedding-2-preview`)
-- **Vector Store**: Chroma DB
-- **Frontend**: Modern Vanilla JS, CSS3, HTML5
+- **Backend**: Python 3.10+, FastAPI, Uvicorn.
+- **AI / Embeddings**: LangChain, Google Generative AI (`gemini-2.5-flash`, `gemini-embedding-2-preview`).
+- **Vector Store**: Chroma DB.
+- **Frontend**: Modern Vanilla JS, CSS3, HTML5.
 
 ---
 
